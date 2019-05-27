@@ -14,6 +14,7 @@
 
 # 代理域名规则
 # MyList
+.twitch.tv rempteproxy
 .bit.no.com remoteproxy
 .btlibrary.me remoteproxy
 .cccat.cc remoteproxy
